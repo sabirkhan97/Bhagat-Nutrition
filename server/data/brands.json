@@ -1,0 +1,12 @@
+[
+  { "id": "muscleblaze", "name": "MuscleBlaze", "logo": "MB", "color": "#FF6B35", "productCount": 18, "description": "India's #1 sports nutrition brand" },
+  { "id": "optimum-nutrition", "name": "Optimum Nutrition", "logo": "ON", "color": "#1B4D8E", "productCount": 12, "description": "World's leading sports nutrition brand" },
+  { "id": "muscletech", "name": "MuscleTech", "logo": "MT", "color": "#E63946", "productCount": 10, "description": "America's #1 selling bodybuilding supplement brand" },
+  { "id": "dymatize", "name": "Dymatize", "logo": "DY", "color": "#2D6A4F", "productCount": 8, "description": "Science-backed nutrition for peak performance" },
+  { "id": "applied-nutrition", "name": "Applied Nutrition", "logo": "AN", "color": "#7209B7", "productCount": 9, "description": "Science-driven nutrition trusted by elite athletes" },
+  { "id": "bull-nutrition", "name": "Bull Nutrition", "logo": "BN", "color": "#D4A017", "productCount": 7, "description": "High-performance nutrition for serious athletes" },
+  { "id": "labrada", "name": "Labrada", "logo": "LB", "color": "#0D47A1", "productCount": 6, "description": "Founded by IFBB Pro Lee Labrada" },
+  { "id": "trunativ", "name": "Trunativ", "logo": "TN", "color": "#00897B", "productCount": 5, "description": "Trusted nutrition for everyday athletes" },
+  { "id": "scivation", "name": "Scivation", "logo": "SC", "color": "#F77F00", "productCount": 4, "description": "Makers of Xtend, the world's #1 BCAA" },
+  { "id": "alpino", "name": "ALPINO", "logo": "AL", "color": "#8BC34A", "productCount": 6, "description": "Natural and clean nutrition products" }
+]

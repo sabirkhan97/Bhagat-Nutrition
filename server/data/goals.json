@@ -1,0 +1,56 @@
+[
+  {
+    "id": "build-muscle",
+    "name": "Build Muscle",
+    "icon": "💪",
+    "color": "#E63946",
+    "description": "Pack on lean muscle mass with targeted protein and creatine stacks",
+    "products": ["whey-protein", "mass-gainer", "creatine", "eaa"],
+    "hero": "https://images.unsplash.com/photo-1646072507379-c6c9dca7de0c?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "lose-fat",
+    "name": "Lose Fat",
+    "icon": "🔥",
+    "color": "#FF6B35",
+    "description": "Shed body fat while preserving hard-earned muscle",
+    "products": ["fat-burner", "isolate-protein", "eaa", "pre-workout"],
+    "hero": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&q=80"
+  },
+  {
+    "id": "improve-workout",
+    "name": "Improve Workout",
+    "icon": "⚡",
+    "color": "#7209B7",
+    "description": "Take your training to the next level with performance supplements",
+    "products": ["pre-workout", "creatine", "eaa", "whey-protein"],
+    "hero": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=1200&q=80"
+  },
+  {
+    "id": "health-wellness",
+    "name": "Health & Wellness",
+    "icon": "🌿",
+    "color": "#2D6A4F",
+    "description": "Support your overall health with vitamins, minerals, and essential nutrients",
+    "products": ["multi-vitamin", "fish-oil", "collagen", "glutamine"],
+    "hero": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=1200&q=80"
+  },
+  {
+    "id": "improve-sport",
+    "name": "Improve Sport",
+    "icon": "🏆",
+    "color": "#1B4D8E",
+    "description": "Sport-specific formulas for athletes across all disciplines",
+    "products": ["eaa", "creatine", "pre-workout", "essential-supplements"],
+    "hero": "https://images.unsplash.com/photo-1519861531473-9200262188bf?w=1200&q=80"
+  },
+  {
+    "id": "increase-energy",
+    "name": "Increase Energy",
+    "icon": "⚡",
+    "color": "#F77F00",
+    "description": "Natural energy boosters to power through your day and workouts",
+    "products": ["pre-workout", "multi-vitamin", "oats", "essential-supplements"],
+    "hero": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?w=1200&q=80"
+  }
+]

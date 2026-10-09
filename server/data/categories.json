@@ -1,0 +1,16 @@
+[
+  { "id": "whey-protein", "name": "Whey Protein", "icon": "🥛", "count": 24, "description": "Premium quality whey protein for muscle building and recovery" },
+  { "id": "isolate-protein", "name": "Isolate Protein", "icon": "⚗️", "count": 18, "description": "Ultra-pure protein isolate with minimal fat and carbs" },
+  { "id": "mass-gainer", "name": "Mass Gainer", "icon": "💪", "count": 12, "description": "High-calorie formulas for serious muscle mass gains" },
+  { "id": "creatine", "name": "Creatine", "icon": "⚡", "count": 15, "description": "Pure creatine for strength, power, and performance" },
+  { "id": "pre-workout", "name": "Pre Workout", "icon": "🔥", "count": 10, "description": "Energy and focus formulas to maximize your training" },
+  { "id": "eaa", "name": "EAA / BCAA", "icon": "🧬", "count": 14, "description": "Essential amino acids for muscle recovery and endurance" },
+  { "id": "multi-vitamin", "name": "Multi-Vitamin", "icon": "💊", "count": 8, "description": "Complete micronutrient support for overall health" },
+  { "id": "fish-oil", "name": "Fish Oil", "icon": "🐟", "count": 6, "description": "Omega-3 fatty acids for heart, brain, and joint health" },
+  { "id": "essential-supplements", "name": "Essential Supplements", "icon": "🌿", "count": 11, "description": "Core supplements every fitness enthusiast needs" },
+  { "id": "fat-burner", "name": "Fat Burner", "icon": "🏃", "count": 9, "description": "Thermogenic formulas to support fat loss and metabolism" },
+  { "id": "glutamine", "name": "Glutamine", "icon": "🔬", "count": 5, "description": "Recovery amino acid for gut health and muscle repair" },
+  { "id": "collagen", "name": "Collagen", "icon": "✨", "count": 7, "description": "Hydrolyzed collagen for skin, joints, and connective tissue" },
+  { "id": "peanut-butter", "name": "Peanut Butter", "icon": "🥜", "count": 8, "description": "Natural protein-rich peanut butter for clean nutrition" },
+  { "id": "oats", "name": "Oats", "icon": "🌾", "count": 4, "description": "High-fiber complex carbohydrates for sustained energy" }
+]
